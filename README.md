@@ -1,3 +1,6 @@
+
+[![Python application test with Github Actions](https://github.com/chanyanhon/demo-CICD-docker/actions/workflows/main.yml/badge.svg)](https://github.com/chanyanhon/demo-CICD-docker/actions/workflows/main.yml)
+
 # demo-CICD-docker (Demo repo with CICD and Dockerfile)
 Example Github Actions Project designed to show how a hello version of Github Actions testing Python code.
 - Click CLI tool with full continuous integration
