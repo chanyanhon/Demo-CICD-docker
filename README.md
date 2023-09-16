@@ -1,5 +1,5 @@
 # demo-CICD-docker
-demo repo with CICD and Dockerfile
+demo repo with CICD and Dockerfile , with Github Actions 
 
 ## Building a CLI Workflow
 1. Create scaffolding in Python (Makefile, virtualenv)
