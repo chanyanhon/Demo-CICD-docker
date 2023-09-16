@@ -1,5 +1,7 @@
-# demo-CICD-docker
-demo repo with CICD and Dockerfile , with Github Actions 
+# demo-CICD-docker (Demo repo with CICD and Dockerfile)
+Example Github Actions Project designed to show how a hello version of Github Actions testing Python code.
+- Click CLI tool with full continuous integration
+- Docker CLI
 
 ## Building a CLI Workflow
 1. Create scaffolding in Python (Makefile, virtualenv)
