@@ -1,7 +1,7 @@
 
 [![Python application test with Github Actions](https://github.com/chanyanhon/demo-CICD-docker/actions/workflows/main.yml/badge.svg)](https://github.com/chanyanhon/demo-CICD-docker/actions/workflows/main.yml)
 
-# Objective of Demo-CICD-docker repo (Demo repo with CICD and Dockerfile)
+# Objective of CICD-docker repo
 To demostrate utilizing Github service (Github Actions) for CI/CD service and show immediate change once perform git commit in this repo. You can try change the code in "hello.py" file. The Github Actions badge will show "passing" if you pass test case in test_hello.py , else showing "failed".
 
 # Demo-CICD-docker repo details
